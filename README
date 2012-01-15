@@ -1,0 +1,15 @@
+c a bb a g e
+------------
+
+a Ruby DSL for making songs in the midi format.
+
+it's designed for entering the notes of a song into the computer speedily and tidily.
+
+i use it for learning music theory and stuff.
+
+it depends on midilib. midilib is good. :)
+
+better documentation coming soon, probably. for now look in the examples folder to get an idea.
+
+well, see you around.
+
